@@ -1,64 +1,42 @@
-[![I LIKE RADIO](https://www.ilikeradio.se/wp-content/uploads/2016/02/ilr_fbdefault.jpg)](https://www.ilikeradio.se/)
+[![I RADIO FR](https://www.creads.fr/app/uploads/sites/1/2017/04/nouveau-logo-radio-france.png)
 
-**I LIKE RADIO** is a Swedish Radio Station online streaming service. On I LIKE RADIO you can listen to stations from MTG Group.
+** RADIO FR ** est un service de streaming en ligne de la station de radio français. Sur RADIO FR, vous pouvez écouter les stations française.
 
-Some popular radio stations on **I LIKE RADIO** is:
-  - Bandit Rock
-  - RIX FM
-  - STAR FM
-  - Power Hit Radio
-  - Lugna Favoriter
+Certaines stations de radio populaires sur ** RADIO FR ** sont:  
+  - Skyrock
+  - NRJ
+  - Nostalgie
+  - ChérieFM
+  - RTL
+  - RTL2
+  - FunRadio
+  - Europe1
+  - Virgin
+  - RFM
+  - FranceInter
+  - FranceCulture
+  - FranceMusique
+  - Mouv
+  - OuïFM
+  - RMC
+  
 
-# IMPORTANT!
-
-**I LIKE RADIO** is in a very very early stage.
-
-**DO NOT RUN THIS CODE AS PRODUCTION**
 
 
-You can help to improve:
-  - Improve the code
-  - Make new functions or modules
-  - Fork it!
+### Language
 
-
-### Technology profile
-
-**I LIKE RADIO** is built and depends on:
+**MULTI RADIO** est construit et dépend de:
 
 * nodejs
 * discord.js 
-* ffmpeg
 
-### Installation
-
-I LIKE RADIO requires [Node.js](https://nodejs.org/) v9+ to run.
-
-Install the dependencies and devDependencies and start the server.
-
-```sh
-$ cd ilikeradio
-$ npm install
-$ mv config.json-example config.json
-$ nano/vim config.json
-$ node index.js
-```
 
 
 
 ### Development
 
-Want to contribute? Great!
+Envie de contribuer? Génial!
 
-Fork the code and add pull requests, **please target a review branch**!
+Forkez le code et ajoutez des pull requests, ** veuillez cibler une branche d'examen **!
 
 
-### Todos
-
- - Improve the quality of the code
- - Move to modular commands
- - Try to implement dynamic loading of channels from API
-
-License
-----
-[MIT](https://choosealicense.com/licenses/mit/)
